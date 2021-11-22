@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/berpress/online-grocery-store/static/css/main.e6e4d5a9.chunk.css",
-    "main.js": "/berpress/online-grocery-store/static/js/main.47fbff30.chunk.js",
-    "main.js.map": "/berpress/online-grocery-store/static/js/main.47fbff30.chunk.js.map",
+    "main.js": "/berpress/online-grocery-store/static/js/main.0c871f3c.chunk.js",
+    "main.js.map": "/berpress/online-grocery-store/static/js/main.0c871f3c.chunk.js.map",
     "runtime-main.js": "/berpress/online-grocery-store/static/js/runtime-main.cf354c38.js",
     "runtime-main.js.map": "/berpress/online-grocery-store/static/js/runtime-main.cf354c38.js.map",
     "static/js/2.ba3882d0.chunk.js": "/berpress/online-grocery-store/static/js/2.ba3882d0.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.cf354c38.js",
     "static/js/2.ba3882d0.chunk.js",
     "static/css/main.e6e4d5a9.chunk.css",
-    "static/js/main.47fbff30.chunk.js"
+    "static/js/main.0c871f3c.chunk.js"
   ]
 }

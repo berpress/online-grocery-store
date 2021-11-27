@@ -37,7 +37,6 @@ const addItem = async(name, description, price, storeId, image, token) => {
 
 function GoodsList(props) {
     const { goods = [], 
-      addToBasket = Function.prototype,
       removeFromBasket = Function.prototype
     } = props;
 
@@ -185,7 +184,6 @@ function GoodsList(props) {
                 <GoodsItem 
                 key={item.itemID} 
                 {...item} 
-                addToBasket={addToBasket} 
                 removeFromBasket={removeFromBasket}/>
             ))}
         </div>
